@@ -1,0 +1,9 @@
+D:\LapTrinhAnToan\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.Form1.resources
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.Properties.Resources.resources
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.csproj.GenerateResource.Cache
+D:\LapTrinhAnToan\Client2\bin\Debug\Client2.exe
+D:\LapTrinhAnToan\Client2\bin\Debug\Client2.pdb
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.exe
+D:\LapTrinhAnToan\Client2\obj\Debug\Client2.pdb

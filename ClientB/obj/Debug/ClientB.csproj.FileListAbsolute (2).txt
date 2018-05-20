@@ -1,0 +1,3 @@
+D:\LapTrinhAnToan\Client2\bin\Debug\Client2.exe.config
+D:\LapTrinhAnToan\Client2\obj\Debug\ClientB.Form1.resources
+D:\LapTrinhAnToan\Client2\obj\Debug\ClientB.csproj.GenerateResource.Cache

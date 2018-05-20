@@ -1,0 +1,9 @@
+D:\LapTrinhAnToan\BaiTapLonDA\bin\Debug\BaiTapLonDA.exe.config
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.csprojResolveAssemblyReference.cache
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.Form1.resources
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.Properties.Resources.resources
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.csproj.GenerateResource.Cache
+D:\LapTrinhAnToan\BaiTapLonDA\bin\Debug\BaiTapLonDA.exe
+D:\LapTrinhAnToan\BaiTapLonDA\bin\Debug\BaiTapLonDA.pdb
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.exe
+D:\LapTrinhAnToan\BaiTapLonDA\obj\Debug\BaiTapLonDA.pdb
